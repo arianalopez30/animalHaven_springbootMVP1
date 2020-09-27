@@ -6,7 +6,7 @@
 
 <body>
 	<h1>Welcome to Animal Haven</h1>
-	Here you can take a look at all of the animals that you can adopt
+	Here you can take a look at <a href="/all">all</a> of the animals that you can adopt
 </body>
 
 </html>
